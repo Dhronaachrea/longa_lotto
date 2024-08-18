@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078616273808",
+    "project_id": "longa-lotto-flutter",
+    "storage_bucket": "longa-lotto-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078616273808:android:7a822002b5cdfd7919b915",
+        "android_client_info": {
+          "package_name": "com.example.longa_lotto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078616273808-b4364ofpldk4svqfcmhgcd8jqielq30k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIdj2dX_QzNOdyCWokgCFNH6ZD96ZEehU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078616273808-b4364ofpldk4svqfcmhgcd8jqielq30k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
